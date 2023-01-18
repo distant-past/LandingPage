@@ -1,1 +1,1 @@
-# LandingPage
+This is a project where I showcase the skills I developed thus far using The Odin Project. It is called "Landing Page." Enjoy.
