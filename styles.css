@@ -151,3 +151,59 @@ body {
     font-style: italic;
     font-weight:lighter;
 }
+
+.fourth-section {
+    padding-left:350px;
+    padding-right:350px;
+    margin-bottom:90px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.fourth-section-content {
+    background-color: #3882F6;
+    display:flex;
+    padding:50px;
+    border-radius: 8px;
+    justify-content: space-around;
+    align-items:center;
+    flex-basis:80%;
+}
+
+
+.cta-header {
+    font-size:22px;
+    font-weight:bold;
+    color:white;
+}
+
+.cta-text {
+    color:white;
+    font-size:18px;
+    font-weight:lighter;
+}
+
+.sign-up-2 {
+    background-color: transparent;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border:solid white;
+    border-radius:8px;
+    font-weight:bold;
+    padding:8px;
+    width:13%;
+}
+
+.footer {
+    background-color: #1F2937;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    padding:40px;
+}
+
+.copyright {
+    color:white;
+}
